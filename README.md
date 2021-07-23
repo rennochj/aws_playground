@@ -1,2 +1,2 @@
 # aws_playground
-plsyground
+playground
